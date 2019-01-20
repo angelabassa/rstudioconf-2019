@@ -13,7 +13,7 @@ How do you data science as a team sport? Oftentimes a data scientific initiative
 ![ABassa - RStudioConf_19 slides](https://github.com/angelabassa/rstudioconf-2019/blob/master/RStudioConf%20ABassa%20-%20DSTeamSport%202019%20slides.png)
 
 https://github.com/angelabassa/rstudioconf-2019/blob/master/RStudioConf%20ABassa%20-%20DSTeamSport%202019.pdf
-
+_Please note that this presentation was intended to be projected at rather high resolution, so the file is very large._
 
 ## Video
 This presentation was video recorded. You can watch the videos at the following link:
