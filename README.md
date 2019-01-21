@@ -43,7 +43,7 @@ https://www.xkcd.com/1053/
 * http://www.mheffernan.com/
 * http://www.amazon.com/Beyond-Measure-Impact-Small-Changes/dp/1442381647/
 
-#### Amy Edmondson's research into Psychological Safety, and Google's Project Aristotle
+#### Psychological Safety
 * https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html
 * https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6451
 * https://www.ted.com/talks/amy_edmondson_how_to_turn_a_group_of_strangers_into_a_team
