@@ -32,7 +32,7 @@ I discussed several of these concepts in a recent episode of [DataCamp's DataFra
 
 ## Additional Resources
 
-Being lucky enough to introduce people to something knew is one of my favorite things 😄
+Being lucky enough to introduce people to something new is one of my favorite things 😄
 
 ![xkcd: Ten Thousand](https://imgs.xkcd.com/comics/ten_thousand.png)
 
