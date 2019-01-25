@@ -20,9 +20,9 @@ _Please note that this presentation was intended to be projected at rather high 
 
 
 ## Video
-This presentation was video recorded. You can watch the videos at the following link:
+![ABassa - RStudioConf_19 screenshot](https://github.com/angelabassa/rstudioconf-2019/blob/master/RStudioConf%20ABassa%20-%20DSTeamSport%202019%20screenshot.png)
 
-TBD
+This presentation was video recorded. You can watch the videos at the following link: https://resources.rstudio.com/rstudio-conf-2019/data-science-as-a-team-sport
 
 
 ## More on This Topic
@@ -40,7 +40,7 @@ https://www.xkcd.com/1053/
 
 ![ABassa - RStudioConf_19 slides more](https://github.com/angelabassa/rstudioconf-2019/blob/master/RStudioConf%20ABassa%20-%20DSTeamSport%202019%20slides%20more.png)
 
-#### More on Super Chickens
+#### Super Chickens
 * https://www.ted.com/talks/margaret_heffernan_why_it_s_time_to_forget_the_pecking_order_at_work
 * http://www.mheffernan.com/
 * http://www.amazon.com/Beyond-Measure-Impact-Small-Changes/dp/1442381647/
@@ -53,12 +53,13 @@ https://www.xkcd.com/1053/
 #### Impostor Syndrome
 * https://en.wikipedia.org/wiki/Impostor_syndrome
 
-#### Kara Swisher on Unconscious Bias (and Mirror-tocracy)
+#### Unconscious Bias (and Mirror-tocracy)
 * https://www.washingtonpost.com/graphics/opinions/spring-cleaning-2017/
+* https://en.wikipedia.org/wiki/Cognitive_bias
 
 #### Survivorship Bias
-* https://en.wikipedia.org/wiki/Survivorship_bias
 * http://www.ams.org/samplings/feature-column/fc-2016-06
+* https://en.wikipedia.org/wiki/Survivorship_bias
 
 #### Dynastic Inbreeding
 * https://blog.23andme.com/ancestry/the-end-of-a-dynasty-how-inbreeding-doomed-the-house-of-habsburg/
