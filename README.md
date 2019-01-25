@@ -1,5 +1,6 @@
+
 # Data Science as a Team Sport
-I gave this talk at the [2019 RStudio::Conf](https://www.rstudio.com/conference/) in January 2019 in Austin, TX. The presentation was part of Track-1, org-thinking. 
+I gave this talk at the [2019 RStudio::Conf](https://www.rstudio.com/conference/) in January in Austin, TX. The presentation was part of Track-1, org-thinking. 
 
 ![ABassa - RStudioConf_19](https://github.com/angelabassa/rstudioconf-2019/blob/master/RStudioConf%20ABassa%20-%20DSTeamSport%202019.jpg)
 (Image Credit: [Julia Silge](https://twitter.com/juliasilge/status/1086322390873841665))
